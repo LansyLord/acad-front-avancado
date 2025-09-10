@@ -1,10 +1,10 @@
 import React from 'react'
-import { TrabalhandoComImagens } from './components/TrabalhandoComImagens'
+import { HookMegaSena } from './components/HookMegaSena'
 
 const App = () => {
     return (
         <div>
-            <TrabalhandoComImagens />
+            <HookMegaSena />
         </div>
     )
 }
