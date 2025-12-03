@@ -38,7 +38,7 @@ Para clonar e rodar esta aplicação em sua máquina, siga os passos abaixo:
 ### 1. Clonar o Repositório
 
 ```bash
-git clone [https://www.youtube.com/watch?v=X49Wz3icO3E](https://www.youtube.com/watch?v=X49Wz3icO3E)
+git clone https://github.com/LansyLord/acad-front-avancado
 cd site-uniesp
 ````
 
