@@ -1,6 +1,4 @@
-Aqui está um modelo de arquivo `README.md` que você pode usar para o seu repositório. Ele é formatado em Markdown para ficar legível e profissional no GitHub ou em outras plataformas.
 
-````markdown
 # 🚀 site-uniesp: Projeto de Front-End Avançado
 
 Este repositório contém o projeto final desenvolvido para a disciplina de **Front-End Avançado** do Professor **Kelson Almeida**. O projeto é uma **versão reduzida do site institucional do UNIESP**, construída para aplicar e consolidar os conceitos fundamentais do React.
