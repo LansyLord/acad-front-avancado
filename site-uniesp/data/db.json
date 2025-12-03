@@ -1,0 +1,28 @@
+{
+  "noticias": [
+    {
+      "id": 1,
+      "titulo": "Tecnologia avança com IA Generativa",
+      "subtitulo": "UNIESP inaugura laboratório dedicado a soluções inteligentes para empresas paraibanas",
+      "conteudo": "O novo **laboratório de IA Generativa** da UNIESP já nasce conectado a desafios reais enviados por empresas parceiras da região metropolitana de João Pessoa, marcando um avanço significativo na aplicação prática da tecnologia. O espaço foi criado com o objetivo de ser um *hub* de inovação, onde estudantes e pesquisadores podem colaborar diretamente com o setor produtivo.\n\nDurante a cerimônia de inauguração, o reitor destacou que a inteligência artificial não é mais uma promessa, mas uma ferramenta essencial para a **competitividade das empresas**. O laboratório já possui projetos iniciais focados em otimização de logística, análise preditiva de mercado e desenvolvimento de chatbots avançados para atendimento ao cliente. A iniciativa visa não apenas formar profissionais de ponta, mas também gerar soluções inovadoras que impactem positivamente a economia local.",
+      "imagem": "/ia.jpg",
+      "dataPublicacao": "2023-10-25"
+    },
+    {
+      "id": 2,
+      "titulo": "Mercado financeiro fecha em alta",
+      "subtitulo": "Indicadores positivos de emprego e inflação animam investidores brasileiros",
+      "conteudo": "O Ibovespa encerrou o pregão desta quarta-feira com alta de 1,8%, impulsionado pelo setor financeiro e por empresas ligadas ao consumo. A divulgação de **dados de emprego** melhores que o esperado nos Estados Unidos, combinada com uma leve **desaceleração da inflação** no Brasil, criaram um ambiente de otimismo para os investidores.\n\nO dólar comercial recuou 0,5% e a curva de juros futuros também apresentou queda, refletindo a expectativa de um cenário macroeconômico mais estável. Analistas apontam que a manutenção de uma política fiscal prudente será crucial para sustentar este movimento positivo nos próximos meses. As ações de bancos e varejistas lideraram os ganhos do dia.",
+      "imagem": "/mercado-financeiro.png",
+      "dataPublicacao": "2023-10-25"
+    },
+    {
+      "id": 3,
+      "titulo": "Cientistas descobrem exoplaneta habitável",
+      "subtitulo": "Equipe internacional detecta indícios de atmosfera estável a 120 anos-luz da Terra",
+      "conteudo": "Astrônomos que utilizam o telescópio espacial **James Webb** anunciaram a identificação de um exoplaneta com tamanho semelhante ao da Terra e condições que o colocam na **zona habitável** de sua estrela. O planeta, nomeado de 'Tóquio-42', orbita uma anã vermelha a cerca de 120 anos-luz de distância e é o principal candidato a ter **água líquida** em sua superfície.\n\nOs dados preliminares coletados pelo Webb indicam a presença de uma atmosfera estável, rica em oxigênio e metano, compostos essenciais para a vida como a conhecemos. A equipe planeja realizar novas observações nos próximos meses para confirmar a composição atmosférica e procurar por bioassinaturas. A descoberta reacende o debate sobre a frequência de planetas potencialmente habitáveis na nossa galáxia.",
+      "imagem": "/exoplaneta.jpg",
+      "dataPublicacao": "2023-10-25"
+    }
+  ]
+}

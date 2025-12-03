@@ -1,0 +1,30 @@
+.footer-custom {
+    /* Cor de fundo preta */
+    background-color: #1a1a1a; 
+    color: #ffffff; /* Cor do texto padrão */
+}
+
+/* Estilo para os títulos das colunas (para a linha embaixo) */
+.footer-custom h5 {
+    color: #ffffff;
+    font-size: 1rem;
+}
+
+/* Estilo para todos os links de navegação */
+.footer-custom .nav-link {
+    color: #ffffffb3; /* Cor mais clara para o texto */
+    padding: 0.2rem 0; /* Espaçamento vertical */
+    font-size: 0.85rem;
+    transition: color 0.2s;
+}
+
+/* Efeito de hover nos links */
+.footer-custom .nav-link:hover {
+    color: #ffffff; /* Brilha ao passar o mouse */
+}
+
+/* Estilo para o separador de copyright */
+.footer-copyright {
+    /* Borda superior sutil */
+    border-top: 1px solid #ffffff1a; 
+}
